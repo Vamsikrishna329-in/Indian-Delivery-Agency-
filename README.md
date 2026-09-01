@@ -1,4 +1,4 @@
-# Indian-Delivery-Agency-
+# Indian-Delivery-Agency
 The last minute delivery and fast delivery agency which delivery the from fresh fruit and vegetables to electronic items with in minutes in the major cities and towns.
 # Executive Summary
 This project analyzes a dataset of 5,000 customer reviews and transaction records for quick-commerce delivery platforms (e.g., Zepto, JioMart, Blinkit, Swiggy Instamart). The analysis evaluates critical operational metrics, including delivery times, customer ratings, order types, and geographical performance. A key finding is that a significant portion of deliveries (58.5%) exceeded the 30-minute mark, a crucial threshold in the quick-commerce industry. Additionally, over half of the customer base utilized discounts. By surfacing these trends, the analysis provides a foundation for optimizing delivery logistics and enhancing customer satisfaction.
